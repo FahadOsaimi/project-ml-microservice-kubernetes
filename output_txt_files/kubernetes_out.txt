@@ -1,1 +1,8 @@
-<paste log output from Kubernetes-mediated prediction, here>
+E0411 21:04:46.617403   79160 portforward.go:400] an error occurred forwarding 8000 -> 80: error forwarding port 80 to pod 0d20eb91a071cb192b2562123f35f1648a8302634664109e6e7cea98ad1398fd, uid : exit status 1: 2020/04/11 18:04:46 socat[23029] E connect(5, AF=2 127.0.0.1:80, 16): Connection refused
+Handling connection for 8000
+E0411 21:04:48.087146   79160 portforward.go:400] an error occurred forwarding 8000 -> 80: error forwarding port 80 to pod 0d20eb91a071cb192b2562123f35f1648a8302634664109e6e7cea98ad1398fd, uid : exit status 1: 2020/04/11 18:04:48 socat[23030] E connect(5, AF=2 127.0.0.1:80, 16): Connection refused
+Handling connection for 8000
+E0411 21:04:48.829862   79160 portforward.go:400] an error occurred forwarding 8000 -> 80: error forwarding port 80 to pod 0d20eb91a071cb192b2562123f35f1648a8302634664109e6e7cea98ad1398fd, uid : exit status 1: 2020/04/11 18:04:48 socat[23055] E connect(5, AF=2 127.0.0.1:80, 16): Connection refused
+Handling connection for 8000
+E0411 21:04:49.626938   79160 portforward.go:400] an error occurred forwarding 8000 -> 80: error forwarding port 80 to pod 0d20eb91a071cb192b2562123f35f1648a8302634664109e6e7cea98ad1398fd, uid : exit status 1: 2020/04/11 18:04:49 socat[23057] E connect(5, AF=2 127.0.0.1:80, 16): Connection refused
+Handling connection for 8000
