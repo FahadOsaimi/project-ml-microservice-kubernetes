@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![FahadOsaimi](https://circleci.com/gh/FahadOsaimi/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/FahadOsaimi/project-ml-microservice-kubernetes/16/workflows/c0b6679c-7ff6-4811-ae72-7f67375b0153)
+
 
 ## Project Overview
 
